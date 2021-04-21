@@ -1,0 +1,5 @@
+Ignore the following list of files below:
+
+*do_token*
+*terraform*
+*.terraform*
